@@ -6,4 +6,4 @@ import Logo from '../assets/guxxy.svg'
 
 export const backgroundScreen = '#990000' 
 
-
+export const GuxxyLogo = Logo
